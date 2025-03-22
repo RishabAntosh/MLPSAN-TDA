@@ -7,7 +7,8 @@ Using Persistent Homology and Machine Learning" to understand the methodology.
 
 
 
-#License and Usage Conditions
+
+**License and Usage Conditions**
 
 This software is licensed under the **GNU General Public License v3.0 (GPLv3)** for **open-source** usage.  
 However, the following additional conditions apply:

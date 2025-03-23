@@ -8,7 +8,7 @@ Using Persistent Homology and Machine Learning" to understand the methodology.
 
 
 
-**License and Usage Conditions**
+## **License and Usage Conditions**
 
 This software is licensed under the **GNU General Public License v3.0 (GPLv3)** for **open-source** usage.  
 However, the following additional conditions apply:
@@ -18,6 +18,7 @@ However, the following additional conditions apply:
    - **Citing this work** in research papers or projects is required:
      > Rishab. (2025). *MLPSAN* (Version 1.0). GitHub.  
      > Available at: https://github.com/RishabAntosh/MLPSAN-TDA
+     > Or use the Zenoto DOI URL: https://doi.org/10.5281/zenodo.15067955
   
 2. **Commercial Use**  
    - **Commercial usage requires explicit written permission from the author**.  

@@ -1,5 +1,5 @@
 # MLPSAN-TDA
-A Python-based toolbox integrating Machine Learning (ML) and Topological Data Analysis (TDA) for Phase Space (PS) analysis of dynamical systems.
+A Python-based toolbox integrating Machine Learning (ML) and Topological Data Analysis (TDA) for Phase Space (PS) analysis (AN) of dynamical systems.
 
 
 Please refer to the paper "Characterization of Dynamical Systems with Scanty Data

@@ -22,7 +22,7 @@ However, the following additional conditions apply:
   
 2. **Commercial Use**  
    - **Commercial usage requires explicit written permission from the author**.  
-   - Please **contact rishaboffical2@gmail.com** for licensing inquiries.  
+   - Please **contact rishabofficial2@gmail.com** for licensing inquiries.  
    - Unauthorized commercial use may violate the terms of use.
 
 3. **Modification and Redistribution**  
